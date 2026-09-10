@@ -45,7 +45,17 @@ Pizza-Sales-Portfolio/
 
 The Power BI report provides interactive views of sales performance, trends, category and size performance, and individual pizza performance.
 
-A PDF export of the dashboard is included in `docs/` so the report can be reviewed without Power BI Desktop.
+### Dashboard Preview
+
+**Overview - sales KPIs, order trends, category and size performance**
+
+![Pizza Sales Dashboard Overview](powerbi/screenshots/dashboard-overview.png)
+
+**Product Analysis - top pizzas, sales by size and least-ordered pizzas**
+
+![Pizza Sales Product Analysis](powerbi/screenshots/dashboard-product-analysis.png)
+
+The original Power BI file is available in `powerbi/`, with dashboard screenshots in `powerbi/screenshots/`. A PDF export is included in `docs/` so the report can also be reviewed without Power BI Desktop.
 
 ## SQL Analysis
 
